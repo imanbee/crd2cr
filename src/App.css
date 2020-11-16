@@ -14,10 +14,10 @@
   max-width: 20%;
   justify-content: flex-start;
   text-align: left;
+  max-height: 100vh;
 }
 
 .github {
-  margin-top: 24px;
   width: 64px;
   height: 64px;
 }
