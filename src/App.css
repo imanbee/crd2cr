@@ -4,6 +4,22 @@
 .CodeMirror {
   height: 100%;
   text-align: left !important;
+  border: 1px solid rgba(0, 0, 0, 0.199);
+}
+
+.disclaimer {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  max-width: 20%;
+  justify-content: flex-start;
+  text-align: left;
+}
+
+.github {
+  margin-top: 24px;
+  width: 64px;
+  height: 64px;
 }
 
 .error {
